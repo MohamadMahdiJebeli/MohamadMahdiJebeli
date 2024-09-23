@@ -10,7 +10,7 @@ Tagr is an innovative platform that allows users to share their podcasts and blo
 - Content Sharing: Share your podcasts and blogs with the community.
 - Responsive Design: Enjoy a seamless experience across devices.
 
-## ⚙️ Technologies Used
+## ⚙️ Technologies
 - **Framework**: Flutter
 - **Programming Language**: Dart
 
