@@ -15,7 +15,8 @@ Tagr is an innovative platform that allows users to share their podcasts and blo
 - **Framework**: Flutter
 - **Programming Language**: Dart
 
-<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter Logo" width="80" />
+<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter Logo" width="80" />  <img src="https://www.cnet.com/a/img/resize/b40e196dcdfe40b6167bf4619f5c3d2db2cc02da/hub/2011/11/23/9edaf184-f0f0-11e2-8c7c-d4ae52e62bcc/Dart_logo.png?auto=webp&fit=crop&height=1200&width=1200" alt="Dart Logo" width="80" />
+
 
 ## 📞 Get in Touch
 - 📧 Email: [mohamadmahdijebeli@gmail.com](mailto:mohamadmahdijebeli@gmail.com)
