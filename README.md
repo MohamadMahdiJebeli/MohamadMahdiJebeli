@@ -20,7 +20,6 @@ Tagr is an innovative platform that allows users to share their podcasts and blo
 ## 📞 Get in Touch
 - 📧 Email: [mohamadmahdijebeli@gmail.com](mailto:mohamadmahdijebeli@gmail.com)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram Logo" width="18" /> Telegram: [mohamadmahdi_jebeli](https://t.me/mohamadmahdi_jebeli)
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="Linkedin Logo" width="18" />
- LinkedIn: [mohamadmahdi-jebeli](https://www.linkedin.com/in/mohamadmahdi-jebeli)
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="Linkedin Logo" width="18" /> LinkedIn: [mohamadmahdi-jebeli](https://www.linkedin.com/in/mohamadmahdi-jebeli)
 
 Feel free to reach out for collaboration or inquiries!
