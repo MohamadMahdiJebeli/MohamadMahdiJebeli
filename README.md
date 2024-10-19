@@ -2,7 +2,11 @@
 I am Mohammad Mahdi Jabali, a passionate Flutter developer dedicated to creating innovative applications. With a focus on user experience and modern design, I strive to bring ideas to life through code.
 
 # 📜 Project Overview
-[**🌟 Tagr - Podcast and Blog Sharing Platform** :](https://github.com/MohamadMahdiJebeli/Tagr)
+
+
+[**<img src="https://github.com/user-attachments/assets/5ac7952b-c6c2-47b3-ad01-a513b752b07e" alt="Tagr Logo" width="80"/>**](https://github.com/MohamadMahdiJebeli/Tagr)
+
+[**Tagr - Podcast and Blog Sharing Platform** :](https://github.com/MohamadMahdiJebeli/Tagr)
 
 Tagr is an innovative platform that allows users to share their podcasts and blogs effortlessly. Whether you're a creator looking to reach a wider audience or a listener seeking engaging content, Tagr provides a user-friendly environment for all.
 
