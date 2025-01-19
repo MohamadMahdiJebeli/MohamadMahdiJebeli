@@ -15,6 +15,8 @@ Tagr is an innovative platform that allows users to share their podcasts and blo
 - Content Sharing: Share your podcasts and blogs with the community.
 - Responsive Design: Enjoy a seamless experience across devices.
 
+--
+
 
 **<img src="https://github.com/user-attachments/assets/eec9e867-1479-4341-8f8b-b2ef2828565e" alt="Watch Store Logo" width="150"/>**
 
