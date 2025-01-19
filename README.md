@@ -15,12 +15,13 @@ Tagr is an innovative platform that allows users to share their podcasts and blo
 - Content Sharing: Share your podcasts and blogs with the community.
 - Responsive Design: Enjoy a seamless experience across devices.
 
---
+
 
 
 **<img src="https://github.com/user-attachments/assets/eec9e867-1479-4341-8f8b-b2ef2828565e" alt="Watch Store Logo" width="150"/>**
 
-[**⌚ Watch Store - Watch online store** :](https://github.com/MohamadMahdiJebeli/WatchStore)
+[**Watch Store - Watch online store** :](https://github.com/MohamadMahdiJebeli/WatchStore)
+
 The Watch Store App is a Flutter-based application designed to simplify the process of browsing and purchasing watches. Whether you're looking for a modern digital watch or a classic watch, this app provides a seamless and enjoyable shopping experience.
 
  🚀 Features:
