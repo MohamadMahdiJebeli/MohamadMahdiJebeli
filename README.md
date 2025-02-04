@@ -29,6 +29,19 @@ The Watch Store App is a Flutter-based application designed to simplify the proc
 - Add clocks to your cart
 - Manage purchases easily
 
+
+
+*<img src="https://github.com/user-attachments/assets/3e727f9a-21e3-438f-9a3d-38f01f090717" alt="Streamify Logo" width="150"/>*
+
+[ Sreamify - Online Video Player :](https://github.com/MohamadMahdiJebeli/Streamify)
+The Streamify App is a Flutter-based application that allows users to stream videos using direct links. Whether you have a movie URL or an online video link, this app provides a seamless playback experience with subtitle support.  
+
+🚀 Features:  
+
+- Play videos directly from provided links  
+- Support for adding external subtitles  
+- Smooth and high-quality video playback
+
 ## ⚙️ Technologies
 - **Framework**: Flutter
 - **Programming Language**: Dart
