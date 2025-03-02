@@ -34,6 +34,7 @@ The Watch Store App is a Flutter-based application designed to simplify the proc
 [**<img src="https://github.com/user-attachments/assets/3e727f9a-21e3-438f-9a3d-38f01f090717" alt="Streamify Logo" width="150"/>**](https://github.com/MohamadMahdiJebeli/Streamify)
 
 [**Sreamify - Online Video Player :**](https://github.com/MohamadMahdiJebeli/Streamify)
+
 The Streamify App is a Flutter-based application that allows users to stream videos using direct links. Whether you have a movie URL or an online video link, this app provides a seamless playback experience with subtitle support.  
 
 🚀 Features:  
@@ -45,7 +46,9 @@ The Streamify App is a Flutter-based application that allows users to stream vid
 
 [**<img src="https://github.com/user-attachments/assets/4d7bdd2c-01a1-4d00-a583-a429d5520597" alt="Taskly Logo" width="150" />**](https://github.com/MohamadMahdiJebeli/Taskly)
 
-[**✅ Taskly - Smart Task Manager**](https://github.com/MohamadMahdiJebeli/Taskly) : The Taskly App is a Flutter-based application designed to help users manage their tasks efficiently. This app allows users to organize their daily activities and track their productivity with ease.  
+[**✅ Taskly - Smart Task Manager**](https://github.com/MohamadMahdiJebeli/Taskly) : 
+
+The Taskly App is a Flutter-based application designed to help users manage their tasks efficiently. This app allows users to organize their daily activities and track their productivity with ease.  
 
 🚀 Features:  
 
