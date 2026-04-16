@@ -4,6 +4,20 @@ I am Mohammad Mahdi Jabali, a passionate Flutter developer dedicated to creating
 # 📜 Project Overview
 
 
+[**<img src="https://github.com/user-attachments/assets/770f0268-0071-40e8-8f92-f0121208280b" alt="Houshan Logo" width="80"/>**](https://github.com/MohamadMahdiJebeli/Houshan)
+
+[**Houshan - All-in-One AI Assistant** :](https://github.com/MohamadMahdiJebeli/Houshan)
+
+The Houshan App is a Flutter-based application designed to give users the fastest and most cost-effective access to leading AI models and tools in a single, unified platform.
+
+ 🚀 Features:
+- Access a wide range of AI models in one unified space
+- Build and customize your own personalized AI assistants
+- Share custom assistants with others and monetize them easily
+
+
+
+
 [**<img src="https://github.com/user-attachments/assets/5ac7952b-c6c2-47b3-ad01-a513b752b07e" alt="Tagr Logo" width="80"/>**](https://github.com/MohamadMahdiJebeli/Tagr)
 
 [**Tagr - Podcast and Blog Sharing Platform** :](https://github.com/MohamadMahdiJebeli/Tagr)
