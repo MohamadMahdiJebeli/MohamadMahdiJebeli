@@ -4,6 +4,19 @@ I am Mohammad Mahdi Jabali, a passionate Flutter developer dedicated to creating
 # 📜 Project Overview
 
 
+[**<img src="https://github.com/user-attachments/assets/947304b8-aea5-4888-94a4-3870bd571709" alt="Didvan Logo" width="80"/>**](https://github.com/MohamadMahdiJebeli/Didvan)
+
+[**Didvan - Strategic Monitoring System** :](https://github.com/MohamadMahdiJebeli/Didvan)
+
+Didvan is a Flutter-based intelligent strategic monitoring system and a comprehensive suite of interactive future-study tools designed to serve as the intellectual arm for businesses navigating the future.
+
+ 🚀 Features:
+- Strategic monitoring and horizon scanning for temporal geography.
+- Interactive futures research and scenario planning tools.
+- Decision support system providing actionable insights for organizations.
+- Anticipatory systems to navigate uncertainties and unprecedented future events.
+
+
 [**<img src="https://github.com/user-attachments/assets/770f0268-0071-40e8-8f92-f0121208280b" alt="Houshan Logo" width="80"/>**](https://github.com/MohamadMahdiJebeli/Houshan)
 
 [**Houshan - All-in-One AI Assistant** :](https://github.com/MohamadMahdiJebeli/Houshan)
