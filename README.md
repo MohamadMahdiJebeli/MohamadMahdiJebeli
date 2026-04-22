@@ -92,7 +92,7 @@ The Taskly App is a Flutter-based application designed to help users manage thei
 
 ## 📞 Get in Touch
 - 📧 Email: [mohamadmahdijebeli@gmail.com](mailto:mohamadmahdijebeli@gmail.com)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram Logo" width="18" /> Telegram: [mohamadmahdi_jebeli](https://t.me/mohamadmahdi_jebeli)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/250px-Telegram_2019_Logo.svg.png" alt="Telegram Logo" width="18" /> Telegram: [mohamadmahdi_jebeli](https://t.me/mohamadmahdi_jebeli)
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="Linkedin Logo" width="18" /> LinkedIn: [mohamadmahdi-jebeli](https://www.linkedin.com/in/mohamadmahdi-jebeli)
 
 Feel free to reach out for collaboration or inquiries!
